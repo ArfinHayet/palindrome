@@ -1,2 +1,2 @@
 # What is this ?
-nothing , just an algorith to check a word is palindrome or not
+nothing , just an algorithm to check a word is palindrome or not
